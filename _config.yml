@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Arxiv"
-      icon: "fa fa-fw fa-file-pdf-o"
+      icon: "fab fa-fw fa-file-pdf-o"
       url: "https://arxiv.org/a/dogra_a_1.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
