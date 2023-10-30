@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am the leader/founder of the loosely organized research group [_Mathephysics_](https://github.com/MathePhysics). We hail from diverse backgrounds (past students have come from Albania, Australia, China, Germany, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people hold/pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning)."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
