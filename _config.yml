@@ -58,34 +58,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Akshunna S. Dogra"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am the leader/founder of the loosely organized research group [_Mathephysics_](https://github.com/MathePhysics). We hail from diverse backgrounds (past students have come from Albania, Australia, China, Germany, India, Pakistan, South Korea, United Kingdom, and the United States) and harbor equally diverse intellectual ambitions (the involved people hold/pursue expertise in various nooks of mathematics, several corners of physics, and the many labyrinthine mazes of machine/deep learning)."
+  bio    : "**Position**: President's Scholar, Dept. of Mathematics, Imperial College London
+  **Also**: Group Leader,[Mathephysics](https://github.com/MathePhysics)"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:adogra@nyu.edu"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-card"
+      url: "https://orcid.org/0000-0002-1326-8976"
     - label: "Arxiv"
-      icon: "fab fa-fw fa-file-pdf-o"
+      icon: "fas fa-fw fa-file-pdf"
       url: "https://arxiv.org/a/dogra_a_1.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MathePhysics"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "MIT Page"
+      icon: "fas fa-fw fa-link"
+      url: "https://asdogra.mit.edu/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/MathePhysics"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=TL86PJMAAAAJ"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-card"
+      url: "https://orcid.org/0000-0002-1326-8976"
 
 defaults:
   # _posts
