@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Mentorship"
     url: /mentorship/
-  - title: "Tags"
-    url: /tags/
+  - title: "Scientific Interests"
+    url: /Scientific_Interests/
   - title: "About"
     url: /about/
