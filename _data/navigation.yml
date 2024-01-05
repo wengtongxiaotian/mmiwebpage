@@ -1,7 +1,11 @@
 main:
+  - title: "Who am I?"
+    url: /whoami/
+  - title: "News"
+    url: /News/
+  - title: "Research"
+    url: /Research/
+  - title: "Academic Output"
+    url: /AcademicOutput/
   - title: "Mentorship"
     url: /mentorship/
-  - title: "Scientific Interests"
-    url: /Scientific_Interests/
-  - title: "About"
-    url: /about/
