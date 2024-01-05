@@ -6,7 +6,7 @@ title: "News"
 
 [Awards, fellowships and the shape of physics: News from the College](https://www.imperial.ac.uk/news/244052/awards-fellowships-shape-physics-news-from/)
 _3 minute read_  
-Imperial’s Akshunna S. Dogra co-developed SHAPER, a framework utilizing AI and physics to analyze complex data patterns from particle collisions, enhancing u...
+Imperial’s Akshunna S. Dogra co-developed SHAPER, a framework utilizing AI and physics to analyze complex data patterns from particle collisions, enhancing ...
 
 ---
 
